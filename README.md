@@ -13,24 +13,15 @@ PostgreSQL (data modeling & SQL analytics)
 
 Power BI (data visualization & dashboarding)
 
-Focus Areas:
-
-Revenue performance
-
-Customer ordering behavior
-
-Product & category analysis
-
-Actionable business insights
-
-Raw transactional CSV files were first transformed into a normalized relational schema in PostgreSQL.
-Analytical SQL views were then created to support efficient reporting and seamless integration with Power BI, where an interactive dashboard was built for decision-making.
-
 # Objectives
 
 1. Understand overall sales and revenue performance
 2. Gain numerical understanding on how many customers visit each day and explore whether certain times of day experience higher visit
 3. Identify performing of pizza products to gain understanding on which products are being preferred by the customers
 4. Provide actionable insights to support operational and marketing decisions
+
+Raw transactional CSV files were first transformed into a normalized relational schema in PostgreSQL.
+Analytical SQL views were then created to support efficient reporting and seamless integration with Power BI, where an interactive dashboard was built for decision-making.
+
 
 
